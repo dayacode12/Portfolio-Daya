@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-Visit ___________ to explore my work.
+Visit https://portfolio-daya.vercel.app/ to explore my work.
 
 ## Features
 
